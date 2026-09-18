@@ -1,3 +1,12 @@
-theme: jekyll-theme-minimal
-title: Juliet Gichuhi's homepage
-description: Please take a look!
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Juliet Gichuhi's homepage</h1>
+<p>Please take a look!</p>
+
+</body>
+</html>
